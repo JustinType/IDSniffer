@@ -1,0 +1,5 @@
+3 files found with potential ids :
+
+- ID found in file : D:\Travail\GHBS\Projets\IDSniffer\test\Faux-positif.txt
+- ID found in file : D:\Travail\GHBS\Projets\IDSniffer\test\Positif.doc
+- ID found in file : D:\Travail\GHBS\Projets\IDSniffer\test\Positif.pdf
